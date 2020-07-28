@@ -5,3 +5,6 @@ https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/get_started/basi
 
 2. MTCNN 설명<br>
 https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff
+
+3. 합성곱 신경망 설명<br>
+https://excelsior-cjh.tistory.com/180
