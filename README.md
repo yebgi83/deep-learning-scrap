@@ -5,6 +5,19 @@
 다이내믹 프록시<br>
 https://haviyj.tistory.com/28
 
+Introduction to Advice Types in Spring<br>
+https://www.baeldung.com/spring-aop-advice-tutorial
+
+The Proxy Pattern in Java<br>
+https://www.baeldung.com/java-proxy-pattern
+
+What is a Spring Bean?<br>
+https://www.baeldung.com/spring-bean
+
+Intro to Inversion of Control and Dependency Injection with Spring<br>
+https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring
+
+
 ### 딥러닝
 
 텐서플로우 문서 한글 번역본<br>
